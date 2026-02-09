@@ -23,6 +23,6 @@ I am a passionate BCA student focused on building a strong foundation in compute
 🔰DAY 3: Debugging and conditional logic
 1️⃣understood the importance of variable initialisation and fixed memory related errors.
 2️⃣Learned aboout conditional statements , operators.
-3️⃣Developed a SMART SHOPKEEPER program using if, else if and else to calculated tiered discounts.
+3️⃣Developed a SMART SHOPKEEPER program using if, else if and else to calculate tiered discounts and a  mobile store program using switch case.
 ---
 *Maintained with dedication by buildwithRaj-m*
