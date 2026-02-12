@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main() {
-    
-    for(int i=1;i<=5;i++){
-        printf("Hello World\n");
+    int i=1;
+    while(i<=10){
+        printf("HELLO WORLD!!\n");
+        i++;
     }
     return 0;
 }
