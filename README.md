@@ -25,6 +25,6 @@ I am a passionate BCA student focused on building a strong foundation in compute
 2️⃣Learned aboout conditional statements , operators.
 3️⃣Developed a SMART SHOPKEEPER program using if, else if and else to calculate tiered discounts and a  mobile store program using switch case.
 
-🔰DAY 4: REVISION and solved few codes question
+🔰DAY 4: REVISION and solved few codes question.
 ---
 *Maintained with dedication by buildwithRaj-m*
