@@ -1,6 +1,6 @@
 # BCA C Programming Journey 🚀
 
-Welcome to my repository! This space is dedicated to my journey of learning and mastering C programming during my BCA course.
+Welcome to my repository! This space is dedicated to my journey of learning and mastering full stack development with ai\ml and cloud computing during my BCA course.
 
 ### 📂 What's Inside?
 - **Foundational C programs:** Basic logic and syntax exercises.
@@ -26,5 +26,7 @@ I am a passionate BCA student focused on building a strong foundation in compute
 3️⃣Developed a SMART SHOPKEEPER program using if, else if and else to calculate tiered discounts and a  mobile store program using switch case.
 
 🔰DAY 4: REVISION and solved few codes question.
+
+
 ---
 *Maintained with dedication by buildwithRaj-m*
