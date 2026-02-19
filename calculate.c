@@ -7,6 +7,8 @@ int main() {
     printf("Enter amount:\n");
     scanf("%f", & value);
 
+    printf("Value is %f\n", value);
+
     calculateprice(value);
 
     return 0;
