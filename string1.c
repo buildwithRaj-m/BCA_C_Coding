@@ -12,7 +12,8 @@ int main() {
     canChange = "Hello";  //it can be reinitialized
     puts(canChange);
 
-    char cannotChange[] = "Hiiiiii";  // canno be reinitialized
+    char cannotChange[] = "Hiiiiii";  // cannot be reinitialized
     puts(cannotChange);
+    
      return 0;
 }
