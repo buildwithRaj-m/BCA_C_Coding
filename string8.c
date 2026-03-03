@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<string.h>
+
+void slice(char str[], int n, int m);
+
+int main() {
+    char str[]= "HelloWorld";
+    slice(str, 3,7);
+}
+
+void slice(char str[],int n, int m){
+    char newStr[100];
+    int j=0;
+    for(int i = n; i<=m; i++ , j++){
+        newStr[j] = str[i];
+    }
+    newStr[j] = '\0';  //Full stop the string
+    puts(newStr);
+
+}
